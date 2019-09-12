@@ -20,10 +20,7 @@ Some screenshots:
 ![All the plots](images/all_plots.png)
 - Velocity and acceleration:
 ![Velocity and acceleration](images/velocity_acceleration.png)
-- Edit distance for genuine input:
-![Genuine Output](images/genuine_output.png)
-- Edit distance for fraud input:
-![Fraud Output](images/fraud_output.png)
+
 
 Contact for more Details:nishant.shah0806@gmail.com
 
